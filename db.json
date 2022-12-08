@@ -28,6 +28,71 @@
       "user_id": 2,
       "full_name": "AdminAdmin"
     }
-  ]
+  ],
+  {
+  "Sales": [
+    {
+      "id": 2954,
+      "sales_code": "DISP-2954",
+      "payment_type": "Cash",
+      "price_adjustment": -0.05,
+      "ispaid": "Yes",
+      "isvoid": "No",
+      "isvoid_approved": "No",
+      "sales_date": "Sep 14, 2022",
+      "void_date": null,
+      "voidapproved_date": null,
+      "total_sales": 780,
+      "inventoryarea_id": 3,
+      "inventory_name": "Dispensing Store",
+      "customer_id": 1,
+      "customer_name": "Walking Customer",
+      "loyal_customer": "No",
+      "customer_code": "",
+      "usersales_id": 2,
+      "usersales_name": "AdminAdmin",
+      "uservoid_id": 1,
+      "uservoid_name": "",
+      "uservoidaproved_id": 1,
+      "uservoidaproved_name": "",
+      "salespayment_id": 2954,
+      "salespayment_date": "Sep 14, 2022",
+      "salespayment_invoice_number": "DISP-2954",
+      "usercasher_id": 2,
+      "cashier": "AdminAdmin",
+      "cash_collected": "Yes"
+    },
+    {
+      "id": 2953,
+      "sales_code": "DISP-2953",
+      "payment_type": "Cash",
+      "price_adjustment": -0.05,
+      "ispaid": "Yes",
+      "isvoid": "No",
+      "isvoid_approved": "No",
+      "sales_date": "Sep 14, 2022",
+      "void_date": null,
+      "voidapproved_date": null,
+      "total_sales": 380,
+      "inventoryarea_id": 3,
+      "inventory_name": "Dispensing Store",
+      "customer_id": 1,
+      "customer_name": "Walking Customer",
+      "loyal_customer": "No",
+      "customer_code": "",
+      "usersales_id": 2,
+      "usersales_name": "AdminAdmin",
+      "uservoid_id": 1,
+      "uservoid_name": "",
+      "uservoidaproved_id": 1,
+      "uservoidaproved_name": "",
+      "salespayment_id": 2953,
+      "salespayment_date": "Sep 14, 2022",
+      "salespayment_invoice_number": "DISP-2953",
+      "usercasher_id": 2,
+      "cashier": "AdminAdmin",
+      "cash_collected": "Yes"
+    }
+]
  
 }
