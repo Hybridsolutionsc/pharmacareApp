@@ -13,20 +13,6 @@
       "operation": "User Admin Admin Logged In",
       "user_id": 2,
       "full_name": "AdminAdmin"
-    },
-    {
-      "id": 7596,
-      "date": "Sep 15, 2022",
-      "operation": "Issue Code IVC-166 Added",
-      "user_id": 2,
-      "full_name": "AdminAdmin"
-    },
-    {
-      "id": 7595,
-      "date": "Sep 15, 2022",
-      "operation": "Inventory Code INV-7 Approved",
-      "user_id": 2,
-      "full_name": "AdminAdmin"
     }
-  ]
+    ]
 }
